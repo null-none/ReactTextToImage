@@ -18,7 +18,9 @@ import TextToImage from 'reactjs-text-to-image';
 
 ```
 
-[Demo](https://jsfiddle.net/null_none/0y107hyj/)
+## Demo
+
+[https://jsfiddle.net/null_none/0y107hyj/](https://jsfiddle.net/null_none/0y107hyj/)
 
 
 
