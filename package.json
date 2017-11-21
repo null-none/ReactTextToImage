@@ -1,0 +1,14 @@
+{
+    "name": "reactjs-text-to-image",
+    "version": "0.0.1",
+    "description": "React component for convert text to image",
+    "main": "convertTextToImage.jsx",
+    "keywords": [
+      "reactjs",
+      "convert text to image",
+      "convert text to img"
+    ],
+    "url" : "https://github.com/null-none/reactjs-text-to-image",
+    "author": "Dmitry Kalinin",
+    "license": "MIT"
+  }
